@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "subjectName": "Mathematics",
+    "subjectCode": "MATH101",
+    "credits": 3
+  },
+  {
+    "id": 2,
+    "subjectName": "Computer Science",
+    "subjectCode": "CS101",
+    "credits": 4
+  },
+  {
+    "id": 3,
+    "subjectName": "Physics",
+    "subjectCode": "PHYS101",
+    "credits": 4
+  },
+  {
+    "id": 4,
+    "subjectName": "English Literature",
+    "subjectCode": "ENGL101",
+    "credits": 3
+  }
+]

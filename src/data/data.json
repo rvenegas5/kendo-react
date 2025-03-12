@@ -1,0 +1,50 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "subjectName": "Mathematics",
+      "subjectCode": "MATH101",
+      "credits": 3
+    },
+    {
+      "id": 2,
+      "subjectName": "Computer Science",
+      "subjectCode": "CS101",
+      "credits": 4
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "subjectId": 1,
+      "enrollmentDate": "2024-03-01"
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "subjectId": 2,
+      "enrollmentDate": "2024-03-02"
+    },
+    {
+      "id": 3,
+      "studentId": 2,
+      "subjectId": 1,
+      "enrollmentDate": "2024-03-01"
+    }
+  ]
+}

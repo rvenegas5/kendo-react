@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "subjectId": 1,
+    "enrollmentDate": "2024-03-01"
+  },
+  {
+    "id": 2,
+    "studentId": 1,
+    "subjectId": 2,
+    "enrollmentDate": "2024-03-02"
+  },
+  {
+    "id": 3,
+    "studentId": 2,
+    "subjectId": 1,
+    "enrollmentDate": "2024-03-01"
+  },
+  {
+    "id": 4,
+    "studentId": 2,
+    "subjectId": 3,
+    "enrollmentDate": "2024-03-05"
+  }
+]
